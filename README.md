@@ -20,8 +20,9 @@ Note: IFTTT can also be configured through a web browser by visiting www.ifttt.c
 
 Setup Instructions -
 1. Log into the IFTTT account.
-
+  
 ![1](https://user-images.githubusercontent.com/490696/190654403-904fcb9e-042d-4706-a705-9201b3d3c16e.jpg)
+  
 
 2. Search for Webhooks. Click on the tile for Webhooks in the search results. Click on the Connect button on the 
 Webhooks screen.
@@ -69,3 +70,16 @@ my laptop's battery falls below a certain threshold.
 10. Search for and select Smart Life.
 
 ![10](https://user-images.githubusercontent.com/490696/190654864-08935152-5a33-4a51-91c6-4465a78f3d5d.JPG)
+
+
+11. Click on Turn On(since this example is for the low battery event).
+12. Select the Smart Life account name and the smart switch name under the device/group name.
+13. Click on Continue.
+14. Click on Finish.
+15. Review the Applet summary.
+16. Create a similar Applet for the event when the laptop battery gets fully charged. Select Webhooks again for the 
+If This section and give a different event name. The example here has the event name as full_battery.
+17. Select Turn Off this time for the Smart Life configuration after clicking the Then That button.
+18. Select the Smart Life account name and the smart switch name under the device/group name.
+19. Click on Continue.
+20. Click on Finish.
