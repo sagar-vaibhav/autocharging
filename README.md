@@ -19,16 +19,53 @@ name. More details can be found here under "How to Add a Device to the Smart Lif
 Note: IFTTT can also be configured through a web browser by visiting www.ifttt.com.
 
 Setup Instructions -
-1. Log into the IFTTT account.  
+1. Log into the IFTTT account.
+
+![1](https://user-images.githubusercontent.com/490696/190654403-904fcb9e-042d-4706-a705-9201b3d3c16e.jpg)
+
 2. Search for Webhooks. Click on the tile for Webhooks in the search results. Click on the Connect button on the 
-Webhooks screen.    
+Webhooks screen.
+
+![2](https://user-images.githubusercontent.com/490696/190654548-0f1402f8-378a-412c-afea-30052330e7f6.JPG)
+
+
 3. Go back to the search menu and search for Smart Life. Click on the tile for Smart Life in the search results. 
-Click on the Connect button and proceed with the login process.  
+Click on the Connect button and proceed with the login process.
+
+![3](https://user-images.githubusercontent.com/490696/190654584-4febd8c2-33c9-4458-a015-a10076c203a0.JPG)
+
+
 4. Click on the Create button.
+
+![4](https://user-images.githubusercontent.com/490696/190654624-3954dbdd-3f07-48c6-804a-5f9bdc1ba7e4.JPG)
+
+
 5. Click on If This button.
+
+![5](https://user-images.githubusercontent.com/490696/190654676-ccdcb89b-ae2f-414c-9241-96356aab68da.JPG)
+
+
 6. Search for Webhooks.
+
+![6](https://user-images.githubusercontent.com/490696/190654722-07187a29-8c26-42e8-a1a9-234261f2731f.JPG)
+
+
 7. Click on Receive a web request.
+
+![7](https://user-images.githubusercontent.com/490696/190654752-837dd377-8844-473e-a911-eda9a97e40c7.JPG)
+
+
 8. Enter a relevant event name. I have used low_battery as the event name to designate the event that'll be fired when 
 my laptop's battery falls below a certain threshold.
+
+![8](https://user-images.githubusercontent.com/490696/190654793-b1a6f236-500b-46e8-b322-379d36586ba7.JPG)
+
+
 9. Click on Then That button.
+
+![9](https://user-images.githubusercontent.com/490696/190654827-3fda6912-b251-49e3-815f-a6f59e1adec6.JPG)
+
+
 10. Search for and select Smart Life.
+
+![10](https://user-images.githubusercontent.com/490696/190654864-08935152-5a33-4a51-91c6-4465a78f3d5d.JPG)
