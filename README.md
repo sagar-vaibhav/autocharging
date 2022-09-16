@@ -13,13 +13,22 @@ Prerequisites –
 [IPhone](https://apps.apple.com/us/app/smart-life-smart-living/id1115101477)  
 Note - You can also use any other app that is supported by IFTTT for controlling smart devices.
 3. Add the smart plug in the application. Create an account, add the smart plug and preferably give the plug a custom 
-name. More details can be found here:  
-[Smart Home Guide](https://www.smarthome.news/how-tos/other-systems/smart-life-app-review-and-guide)  
-[Smart Life Manual](https://www.tlc-direct.co.uk/Technical/DataSheets/LEDlite_Smart/Smart_Life_Manual_en.pdf)
-4. Install IFTTT. Create an account. Search and click on the connect button for “Webhooks” service. Here is a link
-which explains the process for connecting to service:  
-[Connecting to a service on IFTTT](https://help.ifttt.com/hc/en-us/articles/1260805289130-Connecting-to-a-service-on-IFTTT)  
-[IFTTT Applet Creation Guide](https://proteussensor.com/pub/media/manuals/IFTTT-Applet-Creation-Guide.pdf)  
-Note: IFTTT can also be configured through a web browser.
+name. More details can be found here under "How to Add a Device to the Smart Life App" section:  
+[Smart Home Guide](https://www.smarthome.news/how-tos/other-systems/smart-life-app-review-and-guide)
+4. Install IFTTT. Create an account.  
+Note: IFTTT can also be configured through a web browser by visiting www.ifttt.com.
 
 Setup Instructions -
+1. Log into the IFTTT account.  
+2. Search for Webhooks. Click on the tile for Webhooks in the search results. Click on the Connect button on the 
+Webhooks screen.    
+3. Go back to the search menu and search for Smart Life. Click on the tile for Smart Life in the search results. 
+Click on the Connect button and proceed with the login process.  
+4. Click on the Create button.
+5. Click on If This button.
+6. Search for Webhooks.
+7. Click on Receive a web request.
+8. Enter a relevant event name. I have used low_battery as the event name to designate the event that'll be fired when 
+my laptop's battery falls below a certain threshold.
+9. Click on Then That button.
+10. Search for and select Smart Life.
