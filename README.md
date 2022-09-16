@@ -122,4 +122,7 @@ If This section and give a different event name. The example here has the event 
 
 ![20](https://user-images.githubusercontent.com/490696/190660880-d8cda6ab-88d1-48e7-98ac-6f2a69f2f2b6.JPG)
 
+21. The second Applet for turning the smart switch off is ready.
 
+22. Search for Webhooks. Click on the documentation button. This page will display the key. This key will need to be
+used along with the jar to be used in the next steps.
