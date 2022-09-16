@@ -73,13 +73,53 @@ my laptop's battery falls below a certain threshold.
 
 
 11. Click on Turn On(since this example is for the low battery event).
+
+![11](https://user-images.githubusercontent.com/490696/190659585-ae36d122-7916-484d-9760-e198f70513a5.JPG)
+
+
 12. Select the Smart Life account name and the smart switch name under the device/group name.
+
+![12](https://user-images.githubusercontent.com/490696/190659826-be4d3688-c077-4af4-84b4-3756f802fa88.JPG)
+
+
 13. Click on Continue.
+
+![13](https://user-images.githubusercontent.com/490696/190660062-01299e7b-8f1c-411b-8caf-1bdf69313eba.JPG)
+
+
 14. Click on Finish.
-15. Review the Applet summary.
+
+![14](https://user-images.githubusercontent.com/490696/190660229-6c70301b-6650-4e5c-9cab-f29ab858331e.JPG)
+
+
+15. The first Applet for turning the smart switch on is ready.
+
+![15](https://user-images.githubusercontent.com/490696/190660270-16efa092-87b1-47c2-b672-b0167ed8b308.JPG)
+
+
 16. Create a similar Applet for the event when the laptop battery gets fully charged. Select Webhooks again for the 
 If This section and give a different event name. The example here has the event name as full_battery.
+
+![16](https://user-images.githubusercontent.com/490696/190660669-8951de00-68c1-48b0-9be1-8db86a8eddd1.JPG)
+
+
 17. Select Turn Off this time for the Smart Life configuration after clicking the Then That button.
+
+![17](https://user-images.githubusercontent.com/490696/190660704-d83be759-ee48-477d-847f-ac758c964baf.JPG)
+
+
 18. Select the Smart Life account name and the smart switch name under the device/group name.
+
+![18](https://user-images.githubusercontent.com/490696/190660737-e5f62786-e1a5-4c33-b27f-526b13ab402a.JPG)
+
+
 19. Click on Continue.
+
+![19](https://user-images.githubusercontent.com/490696/190660824-70efafc5-20b7-47e0-a1fa-fe293c10b2ac.JPG)
+
+
 20. Click on Finish.
+
+![20](https://user-images.githubusercontent.com/490696/190660880-d8cda6ab-88d1-48e7-98ac-6f2a69f2f2b6.JPG)
+
+
