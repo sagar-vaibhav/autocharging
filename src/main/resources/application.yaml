@@ -1,0 +1,15 @@
+server:
+  port: 9000
+delay:
+  in:
+    millis: 300000
+battery:
+    percentage:
+      min: 40
+      max: 100
+webhook:
+  key: <Enter webhook key here>
+event:
+  switch:
+    on_trigger_name: low_battery
+    off_trigger_name: full_battery
