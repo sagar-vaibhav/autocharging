@@ -1,4 +1,4 @@
-# Autocharging
+# Laptop Autocharging
 Use a smart plug to automatically turn the laptop's charging on and off.
 
 Why do this?
@@ -78,6 +78,8 @@ my laptop's battery falls below a certain threshold.
 
 
 12. Select the Smart Life account name and the smart switch name under the device/group name.
+Note: If the device is not available for selection here, a "Tap-to-Run" scene can be created in the Smart 
+Life app for turning the switch on/off. This would be available as a selection for this step here. 
 
 ![12](https://user-images.githubusercontent.com/490696/190659826-be4d3688-c077-4af4-84b4-3756f802fa88.JPG)
 
